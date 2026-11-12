@@ -1,14 +1,10 @@
-﻿# 🌐 Ecommerce Cart Application
+# 🚀 ecommerce-cart-app
 
-Interactive e-commerce shopping cart and checkout UI with JavaScript.
+Project by **spghimire** | Official Website: [spghimire.com.np](https://spghimire.com.np)
 
-## 🚀 Live Demo
-👉 **[Open Website Live](https://codebymanish26.github.io/ecommerce-cart-app/)**
-
-## 🛠️ Built With
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+## 🌐 Official Links
+* 🔗 **Personal Website:** [https://spghimire.com.np](https://spghimire.com.np)
+* 💻 **Developer:** spghimire
 
 ---
-*Created by [CodeByManish](https://github.com/Codebymanish26)*
+*Curated & developed by [spghimire](https://spghimire.com.np)*
